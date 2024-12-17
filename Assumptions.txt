@@ -1,0 +1,11 @@
+Assumptions:
+
+1. Able to add different cars to the same starting spot
+
+2. Input cars have different names
+
+3. User does not provide invalid input format to grid size, start over options. 
+
+4. For collisions that happen, the first car at that particular spot on the grid would be marked as the cause of collision
+
+5. Maximum grid width and height is set to 100,000.  
